@@ -17,7 +17,7 @@ public class Main {
     public static void main(String[] args) {
         // Task 3
         B obj = new B();
-        System.out.println(obj.meth());
+       // System.out.println(obj.meth());
 
 
     }
